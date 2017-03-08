@@ -1,0 +1,100 @@
+This project was initially developed by Jimmie Fulton at Boku Inc, and open-sourced under the MIT License courtesy of
+Boku Inc. (http://www.boku.com).
+
+
+========================================================================================================================
+This project includes software developed by The Apache Software
+Foundation (http://www.apache.org/).
+
+
+========================================================================================================================
+This project includes source code copied from Apache Hadoop, licensed under the Apache License Version 2.0:
+io.hydramq.internal.util.PureJavaCrc32
+
+See https://github.com/apache/hadoop for more information.
+
+
+========================================================================================================================
+This project is heavily inspired by, and has similar concepts and class names to, Apache Kafka, licensed under the
+Apache License Version 2.0.
+
+See https://github.com/apache/kafka for more information.
+
+
+========================================================================================================================
+This project has a binary runtime dependency on Apache Netty, licensed under the Apache License Version 2.0.
+
+See https://github.com/netty/netty for more information.
+
+
+========================================================================================================================
+This project has a binary runtime dependency on javaassist, licensed under the Mozilla Public License Version 1.1.
+
+See https://github.com/jboss-javassist/javassist for more information.
+
+
+========================================================================================================================
+This project has a binary runtime dependency on DropWizard Metrics, licensed under the Apache License Version 2.0.
+
+See https://github.com/dropwizard/metrics for more information.
+
+
+========================================================================================================================
+This project has a binary runtime dependency on fastutil, licensed under the Apache License Version 2.0.
+
+See https://github.com/vigna/fastutil for more information.
+
+
+========================================================================================================================
+This project has a binary runtime dependency on jOOQ:jOOL, licensed under the Apache License Version 2.0.
+
+See https://github.com/jOOQ/jOOL for more information.
+
+
+========================================================================================================================
+This project has a binary runtime dependency on com.fasterxml.uuid:java-uuid-generator, licensed under the Apache
+License Version 2.0.
+
+See https://github.com/cowtowncoder/java-uuid-generator for more information.
+
+
+========================================================================================================================
+This project has a binary runtime dependency on Slf4j, licensed under the MIT License.
+
+See https://github.com/cowtowncoder/java-uuid-generator for more information.
+
+
+========================================================================================================================
+This project has a binary test dependency on Logback, dual-licensed under the EPL v1.0 and the LGPL 2.1
+
+See https://github.com/qos-ch/logback for more information.
+
+
+========================================================================================================================
+This project has a binary test dependency on TestNG, licensed under the Apache License Version 2.0.
+
+See https://github.com/cbeust/testng for more information.
+
+
+========================================================================================================================
+This project has a binary test dependency on Hamcrest, licensed under the Apache License Version 2.0.
+
+See https://github.com/hamcrest/JavaHamcrest for more information.
+
+
+========================================================================================================================
+This project has a binary test dependency on objenesis, licensed under the BSD License.
+
+See https://github.com/easymock/objenesis for more information.
+
+
+========================================================================================================================
+This project has a binary test dependency on Mockito, licensed under the MIT License.
+
+See https://github.com/mockito/mockito for more information.
+
+
+========================================================================================================================
+This project is built by Apache Maven, licensed under the Apache License Version 2.0.
+
+See https://github.com/apache/maven for more information.

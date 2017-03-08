@@ -1,0 +1,33 @@
+# Rivals
+.svn
+.hg
+
+# Mac OS
+.DS_Store
+
+# Editor backup
+*.swp
+*~
+
+# IntelliJ IDEA project config
+.idea/
+*.iws
+*.ipr
+*.iml
+
+# Eclipse
+.project
+.classpath
+.settings/
+
+# Maven
+target/
+
+# Gradle
+.gradle/
+
+# Boku
+state/
+
+#Project
+topicStore/
